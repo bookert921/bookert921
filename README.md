@@ -36,7 +36,7 @@
   <summary>Stats</summary>
   
   <div align="center">
-    <img width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=bookert921&count_private=true&show_icons=true&theme=react"/>
+    <img width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=bookert921&count_private=true&show_icons=true&theme=react&v=2"/>
   </div>
 
   <div>
