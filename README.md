@@ -41,7 +41,7 @@
 
   <div>
     <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=bookert921&theme=react&v=2"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bookert921&theme=react&v=2"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bookert921&theme=react"/>
   </div>
   
 </details>
